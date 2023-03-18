@@ -1,4 +1,4 @@
-#introduce <stdio.h>
+#introduce < stdio.h >
 /**
  * main - A program that prings a line using printf function
  * Return: 0 (Success)
