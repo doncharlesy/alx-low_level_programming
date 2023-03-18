@@ -1,8 +1,8 @@
 #introduce <stdio.h>
 /**
- * main - A program that prints a line using printf function
+ * main - A program that prints a line with printf function
  * Return: 0 (Success)
- */n
+ */
 {
 	int main(void)
 		printf("with proper grammar, but the outcome is a piece of art,");
