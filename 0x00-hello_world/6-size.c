@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - A program that prints the the size of various types of variables
+ * main - A program that prints sizes of variables with printf
  * Return: 0 (Success)
  */
 int main(void)
